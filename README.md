@@ -2,7 +2,7 @@
 - 👀 I’m interested in Swift programming language.
 - 🌱 I’m currently learning Swift programming language.
 - 📫 How to reach me ariftbkglu@gmail.com
-![Snake animation](https://github.com/{{ariftabakoglu}}/{{ariftabakoglu}}/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!---
